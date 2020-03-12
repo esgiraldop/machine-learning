@@ -1,5 +1,5 @@
 # machine-learning
-For uploading the assignments of machine learning
+Archivos correspondientes a la tarea 4 del curso de aprendizaje automático avanzado
 
 El grupo de datos consiste de 3 características y 5098 individuos 
 que representan el rendimiento de un motor en diferentes estados. 
